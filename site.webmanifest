@@ -1,0 +1,15 @@
+{
+  "name": "Amara & Theo",
+  "short_name": "Amara & Theo",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#5b2a4e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
